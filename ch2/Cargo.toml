@@ -1,0 +1,12 @@
+[package]
+name = "ch2"  
+version = "0.1.0"
+edition = "2021"  
+
+[[bin]]
+name = "tuple"  
+path = "tuple.rs"  
+
+[[bin]]
+name = "slice_and_array"
+path = "slice_and_array.rs"
