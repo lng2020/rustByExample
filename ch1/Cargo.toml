@@ -10,3 +10,7 @@ path = "hello_world.rs"
 [[bin]]
 name = "formatted_print"
 path = "formatted_print.rs"
+
+[[bin]]
+name = "display"
+path = "display.rs"
