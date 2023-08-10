@@ -1,0 +1,20 @@
+[package]
+name = "ch3"  
+version = "0.1.0"
+edition = "2021"  
+
+[[bin]]
+name = "enum"  
+path = "enum.rs"  
+
+[[bin]]
+name = "structure"
+path = "structure.rs"
+
+[[bin]]
+name = "type_alias"
+path = "type_alias.rs"
+
+[[bin]]
+name = "linked_list"
+path = "linked_list.rs"
