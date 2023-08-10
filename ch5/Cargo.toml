@@ -1,0 +1,12 @@
+[package]
+name = "ch5"  
+version = "0.1.0"
+edition = "2021"  
+
+[[bin]]
+name = "inference"
+path = "inference.rs"
+
+[[bin]]
+name = "aliasing"
+path = "aliasing.rs"
