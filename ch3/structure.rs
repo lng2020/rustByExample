@@ -40,7 +40,7 @@ fn main() {
     let _rectange = Rectangle {
         top_left: Point {x: left_edge, y: top_edge},
         bottom_right: bottom_right,
-    }
+    };
 
     let _unit = Unit;
 
