@@ -1,0 +1,18 @@
+[package]
+name = "ch6"  
+version = "0.1.0"
+edition = "2021"  
+
+[[bin]]
+name = "from_and_into"
+path = "from_and_into.rs"
+
+[[bin]]
+name = "try_from_and_try_into"
+path = "try_from_and_try_into.rs"
+
+[[bin]]
+name = "to_and_from_str"
+path = "to_and_from_str.rs"
+
+
