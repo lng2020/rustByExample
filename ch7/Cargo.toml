@@ -1,0 +1,13 @@
+[package]
+name = "ch7"  
+version = "0.1.0"
+edition = "2021"  
+
+[[bin]]
+name = "for_range"
+path = "for_range.rs"
+
+[[bin]]
+name = "for_iterator"
+path = "for_iterator.rs"
+
