@@ -1,0 +1,8 @@
+[package]
+name = "ch8"  
+version = "0.1.0"
+edition = "2021"  
+
+[[bin]]
+name = "associated_function_and_method"
+path = "associated_function_and_method.rs"
