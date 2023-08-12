@@ -15,3 +15,10 @@ path = "for_iterator.rs"
 name = "match"
 path = "match.rs"
 
+[[bin]]
+name = "match_guard"
+path = "match_guard.rs"
+
+[[bin]]
+name = "match_binding"
+path = "match_binding.rs"
