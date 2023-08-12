@@ -11,3 +11,7 @@ path = "for_range.rs"
 name = "for_iterator"
 path = "for_iterator.rs"
 
+[[bin]]
+name = "match"
+path = "match.rs"
+
