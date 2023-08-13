@@ -26,3 +26,7 @@ path = "function_as_input.rs"
 [[bin]]
 name = "closure_as_output"
 path = "closure_as_output.rs"
+
+[[bin]]
+name = "higher_order_function"
+path = "higher_order_function.rs"
