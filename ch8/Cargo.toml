@@ -6,3 +6,23 @@ edition = "2021"
 [[bin]]
 name = "associated_function_and_method"
 path = "associated_function_and_method.rs"
+
+[[bin]]
+name = "closure"
+path = "closure.rs"
+
+[[bin]]
+name = "closure_capture"
+path = "closure_capture.rs"
+
+[[bin]]
+name = "closure_as_input"
+path = "closure_as_input.rs"
+
+[[bin]]
+name = "function_as_input"
+path = "function_as_input.rs"
+
+[[bin]]
+name = "closure_as_output"
+path = "closure_as_output.rs"
