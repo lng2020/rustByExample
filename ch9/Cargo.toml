@@ -10,3 +10,11 @@ path = "visibility.rs"
 [[bin]]
 name = "struct_visibility"
 path = "struct_visibility.rs"
+
+[[bin]]
+name = "use"
+path = "use.rs"
+
+[[bin]]
+name = "super_and_self"
+path = "super_and_self.rs"
