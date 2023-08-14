@@ -6,3 +6,7 @@ edition = "2021"
 [[bin]]
 name = "visibility"
 path = "visibility.rs"
+
+[[bin]]
+name = "struct_visibility"
+path = "struct_visibility.rs"
