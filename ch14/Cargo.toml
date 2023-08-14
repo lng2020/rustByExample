@@ -6,3 +6,15 @@ edition = "2021"
 [[bin]]
 name = "generic"
 path = "generic.rs"
+
+[[bin]]
+name = "function"
+path = "function.rs"
+
+[[bin]]
+name = "implementation"
+path = "implementation.rs"
+
+[[bin]]
+name = "trait"
+path = "trait.rs"
