@@ -18,3 +18,7 @@ path = "implementation.rs"
 [[bin]]
 name = "trait"
 path = "trait.rs"
+
+[[bin]]
+name = "trait_bound"
+path = "trait_bound.rs"
