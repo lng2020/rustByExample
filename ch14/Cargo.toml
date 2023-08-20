@@ -22,3 +22,11 @@ path = "trait.rs"
 [[bin]]
 name = "trait_bound"
 path = "trait_bound.rs"
+
+[[bin]]
+name = "empty_bound"
+path = "empty_bound.rs"
+
+[[bin]]
+name = "multiple_bound"
+path = "multiple_bound.rs"
