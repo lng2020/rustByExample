@@ -30,3 +30,11 @@ path = "empty_bound.rs"
 [[bin]]
 name = "multiple_bound"
 path = "multiple_bound.rs"
+
+[[bin]]
+name = "where.rs"
+path = "where.rs"
+
+[[bin]]
+name = "newtype"
+path = "newtype.rs"
