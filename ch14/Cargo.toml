@@ -38,3 +38,7 @@ path = "where.rs"
 [[bin]]
 name = "newtype"
 path = "newtype.rs"
+
+[[bin]]
+name = "associated_type"
+path = "associated_type.rs"
