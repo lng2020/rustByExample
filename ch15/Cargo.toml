@@ -30,3 +30,11 @@ path = "borrowing.rs"
 [[bin]]
 name = "borrowing_mutability"
 path = "borrowing_mutability.rs"
+
+[[bin]]
+name = "aliasing"
+path = "aliasing.rs"
+
+[[bin]]
+name = "ref_pattern"
+path = "ref_pattern.rs"
