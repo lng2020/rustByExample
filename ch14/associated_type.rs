@@ -1,5 +1,3 @@
-use core::num;
-
 struct Container(i32, i32);
 
 trait Contains {
