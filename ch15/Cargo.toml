@@ -18,3 +18,15 @@ path = "ownership.rs"
 [[bin]]
 name = "mutability"
 path = "mutability.rs"
+
+[[bin]]
+name = "partial_move"
+path = "partial_move.rs"
+
+[[bin]]
+name = "borrowing"
+path = "borrowing.rs"
+
+[[bin]]
+name = "borrowing_mutability"
+path = "borrowing_mutability.rs"
