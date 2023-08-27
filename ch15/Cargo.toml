@@ -1,0 +1,16 @@
+[package]
+name = "ch15"  
+version = "0.1.0"
+edition = "2021"  
+
+[[bin]]
+name = "raii"
+path = "raii.rs"
+
+[[bin]]
+name = "drop"
+path = "drop.rs"
+
+[[bin]]
+name = "ownership"
+path = "ownership.rs"
