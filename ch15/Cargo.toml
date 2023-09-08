@@ -38,3 +38,19 @@ path = "aliasing.rs"
 [[bin]]
 name = "ref_pattern"
 path = "ref_pattern.rs"
+
+[[bin]]
+name = "lifetimes"
+path = "lifetimes.rs"
+
+[[bin]]
+name = "explicit_annotation"
+path = "explicit_annotation.rs"
+
+[[bin]]
+name = "functions"
+path = "functions.rs"
+
+[[bin]]
+name = "methods"
+path = "methods.rs"
