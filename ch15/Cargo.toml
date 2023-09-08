@@ -54,3 +54,19 @@ path = "functions.rs"
 [[bin]]
 name = "methods"
 path = "methods.rs"
+
+[[bin]]
+name = "structs"
+path = "structs.rs"
+
+[[bin]]
+name = "traits"
+path = "traits.rs"
+
+[[bin]]
+name = "bounds"
+path = "bounds.rs"
+
+[[bin]]
+name = "coercion"
+path = "coercion.rs"
