@@ -70,3 +70,11 @@ path = "bounds.rs"
 [[bin]]
 name = "coercion"
 path = "coercion.rs"
+
+[[bin]]
+name = "static"
+path = "static.rs"
+
+[[bin]]
+name = "elision"
+path = "elision.rs"
