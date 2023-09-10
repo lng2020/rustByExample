@@ -26,3 +26,7 @@ path = "iterators.rs"
 [[bin]]
 name = "supertraits"
 path = "supertraits.rs"
+
+[[bin]]
+name = "fully_qualified_syntax"
+path = "fully_qualified_syntax.rs"
