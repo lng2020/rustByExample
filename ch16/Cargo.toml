@@ -14,3 +14,15 @@ path = "derive.rs"
 [[bin]]
 name = "dyn"
 path = "dyn.rs"
+
+[[bin]]
+name = "drop"
+path = "drop.rs"
+
+[[bin]]
+name = "iterators"
+path = "iterators.rs"
+
+[[bin]]
+name = "supertraits"
+path = "supertraits.rs"
