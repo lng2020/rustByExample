@@ -6,3 +6,11 @@ edition = "2021"
 [[bin]]
 name = "traits"
 path = "traits.rs"
+
+[[bin]]
+name = "derive"
+path = "derive.rs"
+
+[[bin]]
+name = "dyn"
+path = "dyn.rs"
