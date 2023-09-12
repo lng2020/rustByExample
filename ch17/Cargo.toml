@@ -1,0 +1,20 @@
+[package]
+name = "ch17"  
+version = "0.1.0"
+edition = "2021"  
+
+[[bin]]
+name = "macro_rule"
+path = "macro_rule.rs"
+
+[[bin]]
+name = "designator"
+path = "designator.rs"
+
+[[bin]]
+name = "overload"
+path = "overload.rs"
+
+[[bin]]
+name = "repeat"
+path = "repeat.rs"
