@@ -1,0 +1,12 @@
+[package]
+name = "ch18"  
+version = "0.1.0"
+edition = "2021"  
+
+[[bin]]
+name = "panic"
+path = "panic.rs"
+
+[[bin]]
+name = "option"
+path = "option.rs"
