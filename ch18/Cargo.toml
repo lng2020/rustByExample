@@ -10,3 +10,7 @@ path = "panic.rs"
 [[bin]]
 name = "option"
 path = "option.rs"
+
+[[bin]]
+name = "unpacking"
+path = "unpacking.rs"
