@@ -18,3 +18,11 @@ path = "overload.rs"
 [[bin]]
 name = "repeat"
 path = "repeat.rs"
+
+[[bin]]
+name = "dsl"
+path = "dsl.rs"
+
+[[bin]]
+name = "variadic_interface"
+path = "variadic_interface.rs"
