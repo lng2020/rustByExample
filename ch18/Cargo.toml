@@ -20,16 +20,16 @@ name = "option_map"
 path = "option_map.rs"
 
 [[bin]]
-name = "option_and_then"
-path = "option_and_then.rs"
+name = "and_then"
+path = "and_then.rs"
 
 [[bin]]
 name = "option_or"
 path = "option_or.rs"
 
 [[bin]]
-name = "option_or_else"
-path = "option_or_else.rs"
+name = "or_else"
+path = "or_else.rs"
 
 [[bin]]
 name = "get_or_insert"
