@@ -16,9 +16,9 @@ name = "unpacking"
 path = "unpacking.rs"
 
 [[bin]]
-name = "map"
-path = "map.rs"
+name = "option_map"
+path = "option_map.rs"
 
 [[bin]]
-name = "and_then"
-path = "and_then.rs"
+name = "option_and_then"
+path = "option_and_then.rs"
