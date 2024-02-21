@@ -14,3 +14,11 @@ path = "option.rs"
 [[bin]]
 name = "unpacking"
 path = "unpacking.rs"
+
+[[bin]]
+name = "map"
+path = "map.rs"
+
+[[bin]]
+name = "and_then"
+path = "and_then.rs"
