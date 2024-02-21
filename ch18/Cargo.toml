@@ -22,3 +22,19 @@ path = "option_map.rs"
 [[bin]]
 name = "option_and_then"
 path = "option_and_then.rs"
+
+[[bin]]
+name = "option_or"
+path = "option_or.rs"
+
+[[bin]]
+name = "option_or_else"
+path = "option_or_else.rs"
+
+[[bin]]
+name = "get_or_insert"
+path = "get_or_insert.rs"
+
+[[bin]]
+name = "get_or_insert_with"
+path = "get_or_insert_with.rs"
