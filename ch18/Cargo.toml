@@ -42,3 +42,7 @@ path = "get_or_insert_with.rs"
 [[bin]]
 name = "map4result"
 path = "map4result.rs"
+
+[[bin]]
+name = "aliase4result"
+path = "aliase4result.rs"
