@@ -46,3 +46,11 @@ path = "map4result.rs"
 [[bin]]
 name = "aliase4result"
 path = "aliase4result.rs"
+
+[[bin]]
+name = "early_return"
+path = "early_return.rs"
+
+[[bin]]
+name = "question_mark"
+path = "question_mark.rs"
