@@ -38,3 +38,7 @@ path = "get_or_insert.rs"
 [[bin]]
 name = "get_or_insert_with"
 path = "get_or_insert_with.rs"
+
+[[bin]]
+name = "map4result"
+path = "map4result.rs"
