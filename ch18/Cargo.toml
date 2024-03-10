@@ -54,3 +54,7 @@ path = "early_return.rs"
 [[bin]]
 name = "question_mark"
 path = "question_mark.rs"
+
+[[bin]]
+name = "define_err"
+path = "question_mark.rs"
