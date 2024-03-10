@@ -62,3 +62,11 @@ path = "question_mark.rs"
 [[bin]]
 name = "boxing_err"
 path = "boxing_err.rs"
+
+[[bin]]
+name = "other_question_mark"
+path = "other_question_mark.rs"
+
+[[bin]]
+name = "wrapping_err"
+path = "wrapping_err.rs"
