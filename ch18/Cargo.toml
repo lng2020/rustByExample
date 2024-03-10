@@ -58,3 +58,7 @@ path = "question_mark.rs"
 [[bin]]
 name = "define_err"
 path = "question_mark.rs"
+
+[[bin]]
+name = "boxing_err"
+path = "boxing_err.rs"
